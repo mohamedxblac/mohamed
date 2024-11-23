@@ -1,2 +1,2 @@
-flask
-cohere
+flask==3.0.3
+cohere==5.11.4
